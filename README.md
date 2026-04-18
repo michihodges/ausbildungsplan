@@ -7,7 +7,9 @@
 | 1 | Planen, Vorbereitung und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leistungsprozessen | d) | Termine planen und abstimmen sowie Terminüberwachung durchführen | 
 
 <table>
-  <th></th>
+  <tr>
+    <th></th>
+  </tr>
 </table>
 
 <table>
